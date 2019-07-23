@@ -1,12 +1,35 @@
 {
   "name": "Sassy",
-  "type": "light",
+  "type": "dark",
   "colors": {
-    "editor.background": "#201c38",
-
+    "editor.background": "#111127f5",
+    "titleBar.activeBackground": "#07132cf5",
     "editor.foreground": "#f2f6f5",
-    "activityBarBadge.background": "#444444",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#fff1f1",
+    "sideBar.foreground": "#d1cccc",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.border": "#948787",
+    "activityBar.background": "#06021a",
+    "statusBar.background": "#082036",
+    "sideBar.background": "#0a0422f5",
+    "terminal.foreground": "#ffffff",
+    "terminal.selectionBackground": "#111127f5",
+    "terminalCursor.background": "#111127f5",
+    "terminal.background": "#111127f5",
+    "sideBarSectionHeader.background": "#201b41",
+    "sideBar.border": "#dbd7d7",
+    "tab.activeBackground": "#270a2e",
+    "menu.background": "#000000",
+    "tab.inactiveBackground": "#07132cf5",
+    "tab.activeBorder": "#a1a1a1",
+    "activityBar.inactiveForeground": "#7ac6f1",
+    "statusBar.border": "#dad2d2",
+    "activityBar.dropBackground": "#ff0000",
+    "editorGroupHeader.tabsBackground": "#07132cf5"
+    // "terminal.foreground": "#ffffff",
+    // "terminal.background": "#111127f5",
+    // "terminalCursor.background": "#111127f5",
+    // "panel.background": "#111127f5"
   },
   "tokenColors": [
     {

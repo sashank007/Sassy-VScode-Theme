@@ -3,7 +3,12 @@
   "displayName": "Sassy",
   "publisher": "SashankTungaturthi",
   "description": "This is a cool sassy theme",
-  "version": "0.0.1",
+  "icon": "vscode-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sashank007/Sassy-VScode-Theme.git"
+  },
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.36.0"
   },
